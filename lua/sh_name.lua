@@ -1,0 +1,1 @@
+NAME_ADDON_NAME = "Cyper's Cool addon"
